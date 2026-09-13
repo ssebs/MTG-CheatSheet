@@ -3,6 +3,8 @@
 
 A single-page, searchable cheat sheet of Magic: The Gathering keywords, rules terms, and the fine distinctions that come up at the Commander table. It's one self-contained `index.html` — no build step, no dependencies.
 
+Check it out now at: https://ssebs.github.io/MTG-CheatSheet
+
 ## Features
 - **Instant search** — filter every entry as you type, with matches highlighted.
 - **Sections that collapse** — expand/collapse any category, or all at once.
