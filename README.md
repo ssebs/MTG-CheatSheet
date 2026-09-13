@@ -1,4 +1,4 @@
-# The Commander Keyword Grimoire <!-- omit in toc -->
+# MTA CheatSheet
 [![Deploy](https://github.com/ssebs/MTG-CheatSheet/actions/workflows/deploy.yml/badge.svg)](https://github.com/ssebs/MTG-CheatSheet/actions/workflows/deploy.yml)
 
 A single-page, searchable cheat sheet of Magic: The Gathering keywords, rules terms, and the fine distinctions that come up at the Commander table. It's one self-contained `index.html` — no build step, no dependencies.
